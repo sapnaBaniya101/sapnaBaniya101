@@ -1,0 +1,154 @@
+ header{
+    color: rgb(56, 100, 12);
+    margin-left: 10px;
+}
+
+.card-deck{
+    margin: 5%!important;
+    
+}
+header h1{
+    text-align: center;
+}
+h2{
+    margin-bottom: 5%!important;
+    color: rgb(7, 70, 7)!important;
+}
+
+
+
+/* pvc img */
+.pvcimg{
+    margin-left: 25px;
+    margin-top: 20px;
+    position: relative;
+
+}
+ .pvcimg #img1{
+    height: 200px;
+    width: 230px;
+    display: inline-block;
+ 
+    
+}
+.pvcimg #img2{
+    height: 200px;
+    width: 230px;
+    display: inline-block;
+    position: relative;
+    left: 70px;
+    
+ 
+}
+.pvcimg #img3{
+    height: 200px;
+    width: 230px;
+    display: inline-block;
+    position: relative;
+    left: 175px;
+    top: -70px;
+   
+    
+}
+/* mask image  */
+
+.maskimg{
+    margin-left: 25px;
+    margin-top: 20px;
+    position: relative;
+
+}
+ .maskimg #img1{
+     margin-top: 20px;
+    height: 380px;
+    width: 290px;
+    display: inline-block;
+
+}
+.maskimg #img2{
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+    position: absolute;
+    top: 0px;
+    left: 320px;
+}
+.maskimg #img3{
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+    position: absolute;
+    top: 210px;
+    left: 320px;
+
+}
+
+/* mash image  */
+.meshimg{
+    margin-left: 25px;
+    margin-top: 20px;
+    position: relative;
+
+}
+ .meshimg #img1{
+     margin-top: 20px;
+    height: 380px;
+    width: 290px;
+    display: inline-block;
+
+}
+.meshimg #img2{
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+    position: absolute;
+    top: 0px;
+    left: 320px;
+}
+.meshimg #img3{
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+    position: absolute;
+    top: 210px;
+    left: 320px;
+    
+}
+/* corset image */
+.corimg{
+    margin-left: 25px;
+    margin-top: 20px;
+    position: relative;
+
+}
+.corimg #img1{
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+    position: relative;
+    top: 10%;
+    left: 25%;
+
+}
+.corimg #img2{
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+    position: relative;
+    left: 20%;
+    top: 40%;
+    
+   
+}
+.corimg #img3{
+    height: 200px;
+    width:  200px;
+    display: inline-block;
+    position: relative;
+    bottom: 10%;
+  
+
+}
+
+
+
